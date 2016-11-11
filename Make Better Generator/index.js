@@ -3,8 +3,8 @@
 const request = require('request');
 const MBGDataHelper = require('./MBGDataHelper.js');
 
-const csv = MBGDataHelper.skillXproblem2CSV();
-console.log(csv);
+const result = MBGDataHelper.skillXproblemCSV();
+console.log(result);
 // https://www.googlesciencefair.com/make-better-generator/api?hl=it
 //&skill=elettricità ed elettronica
 //&love=music

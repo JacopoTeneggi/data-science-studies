@@ -1,6 +1,7 @@
 'use strict';
 
 const unique = require('array-unique');
+const fs = require('fs');
 const utils = require('./utils.js');
 
 const MBGData = require('./MBGData.json');
@@ -38,11 +39,14 @@ module.exports = class MBGDataHelper {
         return out;
     };
 
-    static skillXproblem2CSV() {
+    static skillXproblemCSV() {
         let matrix = this.skillXproblemMatrix();
         let headers = ['Problem'].concat(_skills);
         let csv = utils.matrix2csv(headers, this.problemsVocab(), matrix);
-        return csv;
-    }
+        fs.writeFile('./skillXproblem.csv', csv, (err) => {
+            if (err) return console.log(err);
+            return "Matrix Exported 2 CSV file";
+        })
+    };
 }
 
