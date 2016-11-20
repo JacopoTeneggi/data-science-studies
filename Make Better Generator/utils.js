@@ -15,11 +15,11 @@ module.exports = class Utils {
             let tmp = "";
             let i = 0
             for (i; i < item.length - 1; i++) {
-                tmp += item[i] + delimiter;    
+                tmp += item[i] + delimiter;
             }
             tmp += item[i++] + '\n';
             out += tmp;
         });
         return out;
     }
-}
+};

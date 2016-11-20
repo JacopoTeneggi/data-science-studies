@@ -48,5 +48,15 @@ module.exports = class MBGDataHelper {
             return "Matrix Exported 2 CSV file";
         })
     };
+
+    static getSkillId(skillName) {
+        let id = _skills.indexOf(skillName);
+        if (id == -1) return null;
+        return id;
+    };
+
+    static problemExistsForSkill(skillid, problemName) {
+        return _problems[skillid].includes(problemName);
+    };
 }
 
