@@ -1,0 +1,1882 @@
+{
+    "query": {
+        "love": "Galaxies",
+        "skill": "Physics",
+        "problem": "Viscoelasticity"
+    },
+    "response": {
+        "body": {
+            "books": [
+                {
+                    "authors": [
+                        "United States. National Bureau of Standards",
+                        "American Dental Association"
+                    ],
+                    "publisheddate": "1972",
+                    "title": "Dental Materials Research",
+                    "description": "",
+                    "canonicalvolumelink": "https://market.android.com/details?id=book-yoGYQ-aU-E4C",
+                    "imagelinks": {
+                        "thumbnail": "http://books.google.com/books/content?id=yoGYQ-aU-E4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    }
+                },
+                {
+                    "authors": null,
+                    "publisheddate": "1977",
+                    "title": "Catalog of Copyright Entries. Third Series",
+                    "description": "",
+                    "canonicalvolumelink": "https://market.android.com/details?id=book-_kshAQAAIAAJ",
+                    "imagelinks": {
+                        "thumbnail": "http://books.google.com/books/content?id=_kshAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    }
+                },
+                {
+                    "authors": [
+                        "Pixel"
+                    ],
+                    "publisheddate": "2015-07-01",
+                    "title": "Conference Proceedings. The Future of Education",
+                    "description": "",
+                    "canonicalvolumelink": "http://books.google.it/books/about/Conference_Proceedings_The_Future_of_Edu.html?hl=&id=5-fVCgAAQBAJ",
+                    "imagelinks": {
+                        "thumbnail": "http://books.google.com/books/content?id=5-fVCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    }
+                },
+                {
+                    "authors": null,
+                    "publisheddate": "",
+                    "title": "Future of NPOESS : results of the NunnMcCurdy review of NOAA’s weather satellite program : hearing",
+                    "description": "",
+                    "canonicalvolumelink": "http://books.google.it/books/about/Future_of_NPOESS_results_of_the_NunnMcCu.html?hl=&id=lYpjdcXh4_8C",
+                    "imagelinks": {
+                        "thumbnail": "http://books.google.com/books/content?id=lYpjdcXh4_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    }
+                },
+                {
+                    "authors": null,
+                    "publisheddate": "2011",
+                    "title": "The Effects of Viscoelasticity on the Transitioning Cylinder Wake",
+                    "description": "Using a newly developed three dimensional, time dependent finite volume code designed to compute non-Newtonian flows over a large range of Reynolds number (Re), we performed simulations of viscoelastic flow past a circular cylinder. Our goal was to elucidate elastic effects during transition to turbulence in a bluff body wake. Based on its ability to capture essential physical processes in turbulent drag reduction studies, the FENE-P rheological model was employed in the calculation, and the numerical method utilized was such that a large range of rheological parameters (polymer length L, dimensionless Weissenberg number (Wi), and polymer concentration (beta) in the FENE-P model) could be probed. Simulations were performed for Reynolds numbers ranging from Re = 100 to Re = 3900. Within this range, the Newtonian cylinder wake first undergoes a series of secondary instabilities, transitioning the wake structure from a two-dimensional, laminar vortex shedding state to one exhibiting three-dimensional motion. This transition is characterized first by the mode A instability, which develops in the region of primary vortex development at a Reynolds number of Re = 190. The mode B instability then follows at Re = 260, resulting from unstable perturbation growth in the braid region between primary vortices. At still higher Reynolds numbers, Re = O(1000), the separated shear layer immediately behind the cylinder begins to transition prior to primary vortex shedding. Through nonlinear simulations as well as a Floquet linear stability analysis, viscoelasticity was observed to stabilize both regimes of three-dimensional transition. Full nonlinear simulations revealed that for high enough polymer extensibility L at Re = 300, where mode B instability structures dominate for Newtonian flow, the wake could be reverted back to a state resembling two-dimensional, laminar vortex shedding. This was then confirmed using a Floquet stability analysis, showing significantly suppressed growth rates for both the mode A and mode B instabilities in the linear regime of their development. Mechanisms of this stabilization are presented. At Re = 3900, viscoelasticity again stabilizes the flow, though at this point through a suppression of the Kelvin-Helmoltz rollup instability present in the separated shear layer for Newtonian flows. Once a primary Karman vortex is allowed to form without the influence of a transitioned shear layer, the wake then reverts back to one resembling the mode B instabilities. Confirming this, a study was then performed at the same Reynolds number but allowing for an inhomogeneous polymer concentration throughout the flow field. By injecting polymer additives on the upstream side of the cylinder, it was found that stabilization of the shear layer and of the subsequent wake could be achieved without the presence of polymeric stresses in all downstream locations of the flow.",
+                    "canonicalvolumelink": "http://books.google.it/books/about/The_Effects_of_Viscoelasticity_on_the_Tr.html?hl=&id=dHa4JRU--LAC",
+                    "imagelinks": {
+                        "thumbnail": "http://books.google.com/books/content?id=dHa4JRU--LAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    }
+                },
+                {
+                    "authors": null,
+                    "publisheddate": "1981",
+                    "title": "Mechanics of Pneumatic Tires",
+                    "description": "",
+                    "canonicalvolumelink": "https://market.android.com/details?id=book-zcZTAAAAMAAJ",
+                    "imagelinks": {
+                        "thumbnail": "http://books.google.com/books/content?id=zcZTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    }
+                }
+            ],
+            "websites": [
+                {
+                    "htmltitle": "What are dark matter and dark energy, and how are they affecting ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://www.scientificamerican.com/blogs/cache/file/518AD126-5FC2-4DC3-BC6443072BCBCC1A_medium.jpg?w=170&h=113"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "136",
+                                "height": "90",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVfCHRVx0AdMD_FnqTMLafv1ZDwr1VARIqJ_D8QOA4fHqvYh-agLmG8hI"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "David Biello",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:image": "http://www.scientificamerican.com/sciam/includes/themes/responsive/images/logo400x400.jpg?w=600&h=335",
+                                "og:site_name": "Scientific American",
+                                "og:title": "What are dark matter and dark energy, and how are they affecting the universe?",
+                                "og:type": "article",
+                                "og:url": "https://www.scientificamerican.com/article/what-are-dark-matter-and/",
+                                "parsely-metadata": "{\"contentid\": \"000A9E60-0325-14EE-832583414B7F0000\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "What are dark matter and dark energy, and how are they affecting the universe?",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "28 Aug 2006 ... Dark matter originates from our efforts to explain the observed mismatch between \nthe gravitational mass and the luminous mass of galaxies ...",
+                    "title": "What are dark matter and dark energy, and how are they affecting ...",
+                    "link": "https://www.scientificamerican.com/article/what-are-dark-matter-and/",
+                    "htmlSnippet": "28 Aug 2006 <b>...</b> Dark matter originates from our efforts to explain the observed mismatch between <br>\nthe gravitational mass and the luminous mass of <b>galaxies</b>&nbsp;..."
+                },
+                {
+                    "htmltitle": "Science - Sea Level And Ice (329C): People: Erik Ivins",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "author": "Erik Ivins"
+                            }
+                        ]
+                    },
+                    "snippet": "Larsen, C.F., R.J. Motyka, J.T. Fryemueller, K.A. Echelmeyer and E.R. Ivins, \nRapid viscoelastic uplift in southern Alaska caused by post-Little Ice Age retreat,\n ...",
+                    "title": "Science - Sea Level And Ice (329C): People: Erik Ivins",
+                    "link": "https://science.jpl.nasa.gov/people/Ivins/",
+                    "htmlSnippet": "Larsen, C.F., R.J. Motyka, J.T. Fryemueller, K.A. Echelmeyer and E.R. Ivins, <br>\nRapid <b>viscoelastic</b> uplift in southern Alaska caused by post-Little Ice Age retreat,<br>\n&nbsp;..."
+                },
+                {
+                    "htmltitle": "Ice Sheet System Model: Glacial Isostatic Adjustment (GIA)",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://issm.jpl.nasa.gov/images/issm/documentation/gia/Figure2_IJ99.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "400",
+                                "height": "117",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScQ7Z0AQ9HriaVdUhP63a3CcswGiVwlbQfYgemt23R1XpHIds1KmvMEA"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "[NULL]",
+                                "creator": "[NULL]",
+                                "title": "Glacial Isostatic Adjustment (GIA)"
+                            }
+                        ]
+                    },
+                    "snippet": "... which is considered to be a simple two-layered incompressible continuum with \nupper elastic lithosphere floating on the viscoelastic (Maxwell material) mantle ...",
+                    "title": "Ice Sheet System Model: Glacial Isostatic Adjustment (GIA)",
+                    "link": "https://issm.jpl.nasa.gov/documentation/gia/",
+                    "htmlSnippet": "... which is considered to be a simple two-layered incompressible continuum with <br>\nupper elastic lithosphere floating on the <b>viscoelastic</b> (Maxwell material) mantle&nbsp;..."
+                },
+                {
+                    "htmltitle": "Local <b>viscoelasticity</b> of living cells measured by rotational magnetic ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/ncomms/2016/160105/ncomms10134/carousel/ncomms10134-f2.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "289",
+                                "height": "160",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT98oLP98L2BxjnpHKSBKbEC3_LwkM7CnTR8nL-hKKQOctrDajUPERBKl_L"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "J.-F. Berret",
+                                "citation_doi": "doi:10.1038/ncomms10134",
+                                "citation_journal_title": "Nature Communications",
+                                "citation_online_date": "2016-01-05",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Local viscoelasticity of living cells measured by rotational magnetic spectroscopy",
+                                "citation_volume": "7",
+                                "dc.creator": "J.-F. Berret",
+                                "dc.date": "2016-01-05",
+                                "dc.identifier": "doi:10.1038/ncomms10134",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2016 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "dc.title": "Local viscoelasticity of living cells measured by rotational magnetic spectroscopy",
+                                "emanating": "66X249X76X70",
+                                "maestro-beta-banner": "true",
+                                "prism.copyright": "© 2016 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "prism.issn": "2041-1733",
+                                "prism.publicationdate": "2016-01-05",
+                                "prism.publicationname": "Nature Communications",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Article",
+                                "prism.volume": "7",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.action": "impression;impression;impression",
+                                "wt.cg_n": "Nature Communications",
+                                "wt.cg_s": "Article",
+                                "wt.dl": "0",
+                                "wt.mod_name": "nature_jobs_and_events;most_read_and_related;innocentive",
+                                "wt.ndl": "0",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.source": "toc",
+                                "wt.template": "C",
+                                "wt.z_cc_license_type": "by"
+                            }
+                        ]
+                    },
+                    "snippet": "5 Jan 2016 ... In rheology, viscoelastic liquids and viscoelastic solids differ from each other by \ntheir stress relaxation function G(t). In viscoelastic liquids, G(t) is ...",
+                    "title": "Local viscoelasticity of living cells measured by rotational magnetic ...",
+                    "link": "http://www.nature.com/articles/ncomms10134",
+                    "htmlSnippet": "5 Jan 2016 <b>...</b> In rheology, <b>viscoelastic</b> liquids and <b>viscoelastic</b> solids differ from each other by <br>\ntheir stress relaxation function G(t). In <b>viscoelastic</b> liquids, G(t) is&nbsp;..."
+                },
+                {
+                    "htmltitle": "Physical hydrogels composed of polyampholytes demonstrate high ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/nmat/journal/v12/n10/images_article/nmat3713-f1.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "253",
+                                "height": "199",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2sGWUPd75oplNHHOaD_k28BZHvj5xV9rVWN2EYSjljUlM1gNTO273tkQ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "Tao Lin Sun",
+                                "citation_date": "2013-10-01",
+                                "citation_doi": "doi:10.1038/nmat3713",
+                                "citation_firstpage": "932",
+                                "citation_issue": "10",
+                                "citation_journal_title": "Nature Materials",
+                                "citation_online_date": "2013-07-28",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Physical hydrogels composed of polyampholytes demonstrate high toughness and viscoelasticity",
+                                "citation_volume": "12",
+                                "dc.creator": "Tao Lin Sun",
+                                "dc.date": "2013-07-28",
+                                "dc.identifier": "doi:10.1038/nmat3713",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2013 Nature Publishing Group",
+                                "dc.title": "Physical hydrogels composed of polyampholytes demonstrate high toughness and viscoelasticity",
+                                "emanating": "66X249X69X71",
+                                "license.subtype": "Corporate",
+                                "prism.copyright": "© 2013 Nature Publishing Group",
+                                "prism.eissn": "1476-4660",
+                                "prism.endingpage": "937",
+                                "prism.issn": "1476-1122",
+                                "prism.issue": "10",
+                                "prism.publicationdate": "2013-07-28",
+                                "prism.publicationname": "Nature Materials",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Article",
+                                "prism.startingpage": "932",
+                                "prism.volume": "12",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.cg_n": "Nature Materials"
+                            }
+                        ]
+                    },
+                    "snippet": "Here, we report that polyampholytes, polymers bearing randomly dispersed \ncationic and anionic repeat groups, form tough and viscoelastic hydrogels with ...",
+                    "title": "Physical hydrogels composed of polyampholytes demonstrate high ...",
+                    "link": "http://www.nature.com/nmat/journal/v12/n10/full/nmat3713.html",
+                    "htmlSnippet": "Here, we report that polyampholytes, polymers bearing randomly dispersed <br>\ncationic and anionic repeat groups, form tough and <b>viscoelastic</b> hydrogels with&nbsp;..."
+                },
+                {
+                    "htmltitle": "Carbon Nanotubes with Temperature-Invariant <b>Viscoelasticity</b> from ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://science.sciencemag.org/content/330/6009/F1.medium.gif"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "199",
+                                "height": "254",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbSYf_zGBY_FkmZDUWCOz1V1rOYRWIQa_tlX6ekBd0eAixmujzkd11tjg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "article:published_time": "2010-12-03",
+                                "article:section": "Report",
+                                "article_thumbnail": "http://science.sciencemag.org/content/sci/330/6009/1364/embed/mml-math-1.gif",
+                                "category": "research-article",
+                                "citation_abstract_html_url": "http://science.sciencemag.org/content/330/6009/1364.abstract",
+                                "citation_article_type": "Research Article",
+                                "citation_author": "Ming Xu",
+                                "citation_doi": "10.1126/science.1194865",
+                                "citation_firstpage": "1364",
+                                "citation_full_html_url": "http://science.sciencemag.org/content/330/6009/1364.full",
+                                "citation_id": "330/6009/1364",
+                                "citation_issn": "0036-8075",
+                                "citation_issue": "6009",
+                                "citation_journal_title": "Science",
+                                "citation_lastpage": "1368",
+                                "citation_mjid": "sci;330/6009/1364",
+                                "citation_pdf_url": "http://science.sciencemag.org/content/sci/330/6009/1364.full.pdf",
+                                "citation_pmid": "21127248",
+                                "citation_public_url": "http://science.sciencemag.org/content/330/6009/1364",
+                                "citation_publication_date": "2010/12/03",
+                                "citation_publisher": "American Association for the Advancement of Science",
+                                "citation_section": "Report",
+                                "citation_title": "Carbon Nanotubes with Temperature-Invariant Viscoelasticity from –196° to 1000°C",
+                                "citation_volume": "330",
+                                "dc.accessrights": "restricted",
+                                "dc.contributor": "Ming Xu",
+                                "dc.date": "2010-12-03",
+                                "dc.description": "Viscoelastic materials combine the recoverable stretchiness found in elastic materials with the slow-flowing behavior of a thick fluid, like honey. When subjected to an oscillatory motion, the response will depend on the frequency. At low frequencies, the viscous behavior will dominate and lead to a dissipation of the applied energy as heat, while at fast frequencies the elastic behavior dominates. Xu et al. (p. [1364][1]; see the Perspective by [Gogotsi][2] ) developed a viscoelastic material with an exceptionally broad operating temperature range, based on a network of carbon nanotubes. The responsiveness of the material was probably caused by the “zipping” and “unzipping” of the nanotubes at points of contact.   [1]: /lookup/doi/10.1126/science.1194865  [2]: /lookup/doi/10.1126/science.1198982",
+                                "dc.format": "text/html",
+                                "dc.identifier": "10.1126/science.1194865",
+                                "dc.language": "en",
+                                "dc.publisher": "American Association for the Advancement of Science",
+                                "dc.relation": "10.1126/science.1198982",
+                                "dc.rights": "Copyright © 2010, American Association for the Advancement of Science",
+                                "dc.title": "Carbon Nanotubes with Temperature-Invariant Viscoelasticity from –196° to 1000°C",
+                                "hw.identifier": "/sci/330/6009/1364.atom",
+                                "hw.pisa": "sci;330/6009/1364",
+                                "issue_cover_image": "https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/highwire/sci/330/6009.cover-source.gif",
+                                "og:description": "Viscoelastic materials combine the recoverable stretchiness found in elastic materials with the slow-flowing behavior of a thick fluid, like honey. When subjected to an oscillatory motion, the response will depend on the frequency. At low frequencies, the viscous behavior will dominate and lead to a dissipation of the applied energy as heat, while at fast frequencies the elastic behavior dominates. Xu et al. (p. [1364][1]; see the Perspective by [Gogotsi][2] ) developed a viscoelastic material with an exceptionally broad operating temperature range, based on a network of carbon nanotubes. The responsiveness of the material was probably caused by the “zipping” and “unzipping” of the nanotubes at points of contact.   [1]: /lookup/doi/10.1126/science.1194865  [2]: /lookup/doi/10.1126/science.1198982",
+                                "og:image": "http://science.sciencemag.org/content/330/6009/F1.medium.gif",
+                                "og:site_name": "Science",
+                                "og:title": "Carbon Nanotubes with Temperature-Invariant Viscoelasticity from –196° to 1000°C",
+                                "og:type": "article",
+                                "og:url": "http://science.sciencemag.org/content/330/6009/1364",
+                                "type": "article"
+                            }
+                        ]
+                    },
+                    "snippet": "3 Dec 2010 ... Carbon Nanotubes with Temperature-Invariant Viscoelasticity from –196° to 1000\n°C. Ming Xu,; Don N. Futaba,*,; Takeo Yamada,; Motoo ...",
+                    "title": "Carbon Nanotubes with Temperature-Invariant Viscoelasticity from ...",
+                    "link": "http://science.sciencemag.org/content/330/6009/1364",
+                    "htmlSnippet": "3 Dec 2010 <b>...</b> Carbon Nanotubes with Temperature-Invariant <b>Viscoelasticity</b> from –196° to 1000<br>\n°C. Ming Xu,; Don N. Futaba,*,; Takeo Yamada,; Motoo&nbsp;..."
+                },
+                {
+                    "htmltitle": "NASA Technical Reports Server (NTRS) - <b>Viscoelastic</b> foam cushion",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "citation_abstract_html_url": "http://ntrs.nasa.gov/search.jsp?R=19760000525",
+                                "citation_authors": "Kubokawa, C. C.; Yost, C.",
+                                "citation_issn": "ISSN 0145-319X",
+                                "citation_keywords": "CUSHIONS; FOAMS; POLYURETHANE FOAM; SEATS; SHOCK ABSORBERS; THERMOVISCOELASTICITY; VISCOELASTICITY",
+                                "citation_patent_number": "ARC-11089",
+                                "citation_publication_date": "1977/03/01",
+                                "citation_title": "Viscoelastic foam cushion",
+                                "cms document id": "19760000525",
+                                "dc.category": "MATERIALS",
+                                "dc.date.modified": "2011-08-15",
+                                "dc.format": "text/html",
+                                "dc.identifier": "http://ntrs.nasa.gov/search.jsp?R=19760000525",
+                                "dc.language": "en",
+                                "dc.subject": "CUSHIONS; FOAMS; POLYURETHANE FOAM; SEATS; SHOCK ABSORBERS; THERMOVISCOELASTICITY; VISCOELASTICITY",
+                                "dc.title": "Viscoelastic foam cushion",
+                                "fb:page_id": "132726199269"
+                            }
+                        ]
+                    },
+                    "snippet": "Document Type: NASA Tech Brief. Publication Information: NASA Tech Briefs (\nISSN 0145-319X); 1; 4; P. 582. Publisher Information: United States. Financial ...",
+                    "title": "NASA Technical Reports Server (NTRS) - Viscoelastic foam cushion",
+                    "link": "https://ntrs.nasa.gov/search.jsp?R=19760000525",
+                    "htmlSnippet": "Document Type: NASA <b>Tech</b> Brief. Publication Information: NASA <b>Tech</b> Briefs (<br>\nISSN 0145-319X); 1; 4; P. 582. Publisher Information: United States. Financial&nbsp;..."
+                },
+                {
+                    "htmltitle": "Microstructure and <b>viscoelasticity</b> of confined semiflexible polymer ...",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "M. M. A. E. Claessens",
+                                "citation_date": "2006-03-01",
+                                "citation_doi": "doi:10.1038/nphys241",
+                                "citation_firstpage": "186",
+                                "citation_issue": "3",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2006-02-26",
+                                "citation_publisher": "Nature Publishing Group",
+                                "citation_title": "Microstructure and viscoelasticity of confined semiflexible polymer networks",
+                                "citation_volume": "2",
+                                "dc.creator": "M. M. A. E. Claessens",
+                                "dc.date": "2006-02-26",
+                                "dc.identifier": "doi:10.1038/nphys241",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Publishing Group",
+                                "dc.rights": "© 2006 Nature Publishing Group",
+                                "dc.source": "Nature Physics, Published online: 26 February 2006; | doi:10.1038/nphys241",
+                                "dc.title": "Microstructure and viscoelasticity of confined semiflexible polymer networks",
+                                "dcs.dcssip": "www.nature.com",
+                                "emanating": "66X249X69X118",
+                                "license.subtype": "N/A",
+                                "prism.copyright": "© 2006 Nature Publishing Group",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "189",
+                                "prism.issn": "1745-2473",
+                                "prism.number": "3",
+                                "prism.publicationdate": "2006-02-26",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Letter",
+                                "prism.startingpage": "186",
+                                "prism.volume": "2",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "Letter",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.tz": "US/Eastern"
+                            }
+                        ]
+                    },
+                    "snippet": "The rapidly decreasing dimensions of many technological devices have spurred \ninterest in confinement effects. Long before, living organisms invented ...",
+                    "title": "Microstructure and viscoelasticity of confined semiflexible polymer ...",
+                    "link": "http://www.nature.com/nphys/journal/v2/n3/abs/nphys241.html",
+                    "htmlSnippet": "The rapidly decreasing dimensions of many <b>technological</b> devices have spurred <br>\ninterest in confinement effects. Long before, living organisms invented&nbsp;..."
+                },
+                {
+                    "htmltitle": "Formation of beads-on-a-string structures during break-up of ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/nphys/journal/v6/n8/carousel/nphys1682-f1.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "220",
+                                "height": "160",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXgpzrOEe8P4OwmTp2M84aHxgvD6uApoDAX4oMqVx8gUQDAIZIimQGWbsK"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "abstract": "yes",
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "Pradeep P. Bhat",
+                                "citation_date": "2010-08-01",
+                                "citation_doi": "doi:10.1038/nphys1682",
+                                "citation_firstpage": "625",
+                                "citation_issue": "8",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2010-06-06",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Formation of beads-on-a-string structures during break-up of viscoelastic filaments",
+                                "citation_volume": "6",
+                                "dc.creator": "Pradeep P. Bhat",
+                                "dc.date": "2010-06-06",
+                                "dc.identifier": "doi:10.1038/nphys1682",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2010 Nature Publishing Group",
+                                "dc.title": "Formation of beads-on-a-string structures during break-up of viscoelastic filaments",
+                                "emanating": "66X249X65X154",
+                                "license.subtype": "N/A",
+                                "prism.copyright": "© 2010 Nature Publishing Group",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "631",
+                                "prism.issn": "1745-2473",
+                                "prism.issue": "8",
+                                "prism.publicationdate": "2010-06-06",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Article",
+                                "prism.startingpage": "625",
+                                "prism.volume": "6",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.action": "impression;impression;impression",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "Article",
+                                "wt.mod_name": "nature_jobs_and_events;most_read_and_related;innocentive",
+                                "wt.source": "article",
+                                "wt.template": "C"
+                            }
+                        ]
+                    },
+                    "snippet": "Break-up of viscoelastic filaments is pervasive in both nature and technology. If a \nfilament is formed by placing a drop of saliva between a thumb and forefinger ...",
+                    "title": "Formation of beads-on-a-string structures during break-up of ...",
+                    "link": "http://www.nature.com/nphys/journal/v6/n8/abs/nphys1682.html",
+                    "htmlSnippet": "Break-up of <b>viscoelastic</b> filaments is pervasive in both nature and <b>technology</b>. If a <br>\nfilament is formed by placing a drop of saliva between a thumb and forefinger&nbsp;..."
+                },
+                {
+                    "htmltitle": "Mechanical plasticity of cells : Nature Materials : Nature Research",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/nmat/journal/v15/n10/carousel/nmat4689-f2.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "337",
+                                "height": "150",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB5q0LdAx-HNijcv5RzMY6Xk80eBulioCgey5RGFLigo47giXPEYk6hNw"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "abstract": "yes",
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "Navid Bonakdar",
+                                "citation_date": "2016-10-01",
+                                "citation_doi": "doi:10.1038/nmat4689",
+                                "citation_firstpage": "1090",
+                                "citation_issue": "10",
+                                "citation_journal_title": "Nature Materials",
+                                "citation_online_date": "2016-07-04",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Mechanical plasticity of cells",
+                                "citation_volume": "15",
+                                "dc.creator": "Navid Bonakdar",
+                                "dc.date": "2016-07-04",
+                                "dc.identifier": "doi:10.1038/nmat4689",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2016 Nature Publishing Group",
+                                "dc.title": "Mechanical plasticity of cells",
+                                "emanating": "66X249X66X130",
+                                "license.subtype": "Corporate",
+                                "prism.copyright": "© 2016 Nature Publishing Group",
+                                "prism.eissn": "1476-4660",
+                                "prism.endingpage": "1094",
+                                "prism.issn": "1476-1122",
+                                "prism.issue": "10",
+                                "prism.publicationdate": "2016-07-04",
+                                "prism.publicationname": "Nature Materials",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Letter",
+                                "prism.startingpage": "1090",
+                                "prism.volume": "15",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.cg_n": "Nature Materials",
+                                "wt.cg_s": "Letter"
+                            }
+                        ]
+                    },
+                    "snippet": "Under mechanical loading, most living cells show a viscoelastic deformation that \n..... Max-Planck Institute for the Science of Light, 91058 Erlangen, Germany.",
+                    "title": "Mechanical plasticity of cells : Nature Materials : Nature Research",
+                    "link": "http://www.nature.com/nmat/journal/v15/n10/abs/nmat4689.html",
+                    "htmlSnippet": "Under mechanical loading, most living cells show a <b>viscoelastic</b> deformation that <br>\n..... Max-Planck Institute for the <b>Science of</b> Light, 91058 Erlangen, Germany."
+                },
+                {
+                    "htmltitle": "Fatigue resistance of aligned carbon nanotube arrays under cyclic ...",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "citation_author": "J. Suhr",
+                                "citation_date": "2007-07-01",
+                                "citation_doi": "doi:10.1038/nnano.2007.186",
+                                "citation_firstpage": "417",
+                                "citation_issue": "7",
+                                "citation_journal_title": "Nature Nanotechnology",
+                                "citation_online_date": "2007-07-01",
+                                "citation_publisher": "Nature Publishing Group",
+                                "citation_title": "Fatigue resistance of aligned carbon nanotube arrays under cyclic compression",
+                                "citation_volume": "2",
+                                "dc.creator": "J. Suhr",
+                                "dc.date": "2007-07-01",
+                                "dc.identifier": "doi:10.1038/nnano.2007.186",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Publishing Group",
+                                "dc.rights": "© 2007 Nature Publishing Group",
+                                "dc.source": "Nature Nanotechnology, Published online: 01 July 2007; | doi:10.1038/nnano.2007.186",
+                                "dc.title": "Fatigue resistance of aligned carbon nanotube arrays under cyclic compression",
+                                "dcs.dcssip": "www.nature.com",
+                                "emanating": "66X249X69X66",
+                                "license.subtype": "N/A",
+                                "prism.copyright": "© 2007 Nature Publishing Group",
+                                "prism.eissn": "1748-3395",
+                                "prism.endingpage": "421",
+                                "prism.issn": "1748-3387",
+                                "prism.number": "7",
+                                "prism.publicationdate": "2007-07-01",
+                                "prism.publicationname": "Nature Nanotechnology",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Letter",
+                                "prism.startingpage": "417",
+                                "prism.volume": "2",
+                                "wt.cg_n": "Nature Nanotechnology",
+                                "wt.cg_s": "Letter",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.tz": "America/New_York"
+                            }
+                        ]
+                    },
+                    "snippet": "1 Jul 2007 ... In fact, other evidence of viscoelastic properties is seen in the results .... P. C. \nScience of Fullerenes and Carbon Nanotubes (Academic, San ...",
+                    "title": "Fatigue resistance of aligned carbon nanotube arrays under cyclic ...",
+                    "link": "http://www.nature.com/nnano/journal/v2/n7/full/nnano.2007.186.html",
+                    "htmlSnippet": "1 Jul 2007 <b>...</b> In fact, other evidence of <b>viscoelastic</b> properties is seen in the results .... P. C. <br>\n<b>Science of</b> Fullerenes and Carbon Nanotubes (Academic, San&nbsp;..."
+                },
+                {
+                    "htmltitle": "Atomic picture of elastic deformation in a metallic glass : Scientific ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/article-assets/npg/srep/2015/150317/srep09184/images/m685/srep09184-f1.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "182",
+                                "height": "277",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsZd5nBOHipbssI7EClx0qYsFXqPFkxHyUjN__LXuHjgmlVAYhosVomm8"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "citation_author": "X. D. Wang",
+                                "citation_author_institution": "International Center for New-Structured Materials (ICNSM), Laboratory of New-Structured Materials, State Key Laboratory of Silicon Materials, and Department of Materials Science and Engineering, Zhejiang University, Hangzhou, 310027, People's Republic of China",
+                                "citation_doi": "doi:10.1038/srep09184",
+                                "citation_firstpage": "9184",
+                                "citation_fulltext_html_url": "http://www.nature.com/srep/2015/150317/srep09184/full/srep09184.html",
+                                "citation_issn": "2045-2322",
+                                "citation_journal_title": "Scientific Reports",
+                                "citation_language": "en",
+                                "citation_publication_date": "2015/03/17",
+                                "citation_publisher": "Nature Publishing Group",
+                                "citation_reference": "Meyers, M. A. &amp; Chawla, K. K. Mechanical Behavior of Materials. (Cambridge University Press, 2009).",
+                                "citation_title": "Atomic picture of elastic deformation in a metallic glass",
+                                "citation_volume": "5",
+                                "og:description": "The tensile behavior of a Ni60Nb40 metallic glass (MG) has been studied by using ab initio density functional theory (DFT) calculation with a large cell containing 1024 atoms (614 Ni and 410 Nb).",
+                                "og:image": "http://www.nature.com/article-assets/npg/srep/2015/150317/srep09184/images/m685/srep09184-f1.jpg",
+                                "og:site_name": "Scientific Reports",
+                                "og:title": "Atomic picture of elastic deformation in a metallic glass",
+                                "og:type": "article",
+                                "og:url": "http://www.nature.com/srep/2015/150317/srep09184/full/srep09184.html",
+                                "twitter:card": "summary",
+                                "twitter:description": "The tensile behavior of a Ni60Nb40 metallic glass (MG) has been studied by using ab initio density functional theory (DFT) calculation with a large cell containing 1024 atoms (614 Ni and 410 Nb).",
+                                "twitter:image": "http://www.nature.com/article-assets/npg/srep/2015/150317/srep09184/images/m685/srep09184-f1.jpg",
+                                "twitter:site": "@SciReports",
+                                "twitter:title": "Atomic picture of elastic deformation in a metallic glass",
+                                "wt.cg_n": "Scientific Reports",
+                                "wt.cg_s": "Article",
+                                "wt.site_id": "19286",
+                                "wt.template": "mosaic",
+                                "wt.z_cc_license_type": "cc_by",
+                                "wt.z_cg_type": "Nature Research Journals",
+                                "wt.z_primary_atype": "Research",
+                                "wt.z_subject_term": "Atomistic models;Structure of solids and liquids",
+                                "wt.z_subject_term_id": "atomistic-models;structure-of-solids-and-liquids"
+                            }
+                        ]
+                    },
+                    "snippet": "17 Mar 2015 ... Due to the creation of more cavities, viscoelasticity becomes dominant. ..... of \nScience of DOE under the contract No DE-AC03-76SF00098.",
+                    "title": "Atomic picture of elastic deformation in a metallic glass : Scientific ...",
+                    "link": "http://www.nature.com/articles/srep09184",
+                    "htmlSnippet": "17 Mar 2015 <b>...</b> Due to the creation of more cavities, <b>viscoelasticity</b> becomes dominant. ..... of <br>\n<b>Science of</b> DOE under the contract No DE-AC03-76SF00098."
+                },
+                {
+                    "htmltitle": "Microstructure and <b>viscoelasticity</b> of confined semiflexible polymer ...",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "M. M. A. E. Claessens",
+                                "citation_date": "2006-03-01",
+                                "citation_doi": "doi:10.1038/nphys241",
+                                "citation_firstpage": "186",
+                                "citation_issue": "3",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2006-02-26",
+                                "citation_publisher": "Nature Publishing Group",
+                                "citation_title": "Microstructure and viscoelasticity of confined semiflexible polymer networks",
+                                "citation_volume": "2",
+                                "dc.creator": "M. M. A. E. Claessens",
+                                "dc.date": "2006-02-26",
+                                "dc.identifier": "doi:10.1038/nphys241",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Publishing Group",
+                                "dc.rights": "© 2006 Nature Publishing Group",
+                                "dc.source": "Nature Physics, Published online: 26 February 2006; | doi:10.1038/nphys241",
+                                "dc.title": "Microstructure and viscoelasticity of confined semiflexible polymer networks",
+                                "dcs.dcssip": "www.nature.com",
+                                "emanating": "66X249X64X57",
+                                "license.subtype": "N/A",
+                                "prism.copyright": "© 2006 Nature Publishing Group",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "189",
+                                "prism.issn": "1745-2473",
+                                "prism.number": "3",
+                                "prism.publicationdate": "2006-02-26",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Letter",
+                                "prism.startingpage": "186",
+                                "prism.volume": "2",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "Letter",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.tz": "US/Eastern"
+                            }
+                        ]
+                    },
+                    "snippet": "Subject Categories: Polymer physics | Nanotechnology | Materials physics ... \nMicrostructure and viscoelasticity of confined semiflexible polymer networks.",
+                    "title": "Microstructure and viscoelasticity of confined semiflexible polymer ...",
+                    "link": "http://www.nature.com/nphys/journal/v2/n3/full/nphys241.html",
+                    "htmlSnippet": "Subject Categories: Polymer <b>physics</b> | Nanotechnology | Materials <b>physics</b> ... <br>\nMicrostructure and <b>viscoelasticity</b> of confined semiflexible polymer networks."
+                },
+                {
+                    "htmltitle": "A bottom-up approach to cell mechanics : Article : Nature <b>Physics</b>",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "A. R. Bausch",
+                                "citation_date": "2006-04-01",
+                                "citation_doi": "doi:10.1038/nphys260",
+                                "citation_firstpage": "231",
+                                "citation_issue": "4",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2006-04-01",
+                                "citation_publisher": "Nature Publishing Group",
+                                "citation_title": "A bottom-up approach to cell mechanics",
+                                "citation_volume": "2",
+                                "dc.creator": "A. R. Bausch",
+                                "dc.date": "2006-04-01",
+                                "dc.identifier": "doi:10.1038/nphys260",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Publishing Group",
+                                "dc.rights": "© 2006 Nature Publishing Group",
+                                "dc.source": "Nature Physics, Published online: 01 April 2006; | doi:10.1038/nphys260",
+                                "dc.title": "A bottom-up approach to cell mechanics",
+                                "dcs.dcssip": "www.nature.com",
+                                "emanating": "66X249X69X68",
+                                "license.subtype": "N/A",
+                                "prism.copyright": "© 2006 Nature Publishing Group",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "238",
+                                "prism.issn": "1745-2473",
+                                "prism.number": "4",
+                                "prism.publicationdate": "2006-04-01",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Progress Article",
+                                "prism.startingpage": "231",
+                                "prism.volume": "2",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "Progress Article",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.tz": "US/Eastern"
+                            }
+                        ]
+                    },
+                    "snippet": "Subject Categories: Biological physics | Condensed-matter physics ... division, \nactin and intermediate filaments are the main determinants of cell viscoelasticity.",
+                    "title": "A bottom-up approach to cell mechanics : Article : Nature Physics",
+                    "link": "http://www.nature.com/nphys/journal/v2/n4/full/nphys260.html",
+                    "htmlSnippet": "Subject Categories: Biological <b>physics</b> | Condensed-matter <b>physics</b> ... division, <br>\nactin and intermediate filaments are the main determinants of cell <b>viscoelasticity</b>."
+                },
+                {
+                    "htmltitle": "Dynamic <b>Viscoelasticity</b> and FT-IR Measurements of End ...",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "citation_author": "Akihiro Koike",
+                                "citation_date": "1996-11-01",
+                                "citation_doi": "doi:10.1295/polymj.28.942",
+                                "citation_firstpage": "942",
+                                "citation_issue": "11",
+                                "citation_journal_title": "Polymer Journal",
+                                "citation_online_date": "1996-11-01",
+                                "citation_publisher": "Nature Publishing Group",
+                                "citation_title": "Dynamic Viscoelasticity and FT-IR Measurements of End-Crosslinking |[alpha]|,|[omega]|-Dihydroxyl Polybutadiene Solutions near the Gel Point in the Gelation Process",
+                                "citation_volume": "28",
+                                "dc.creator": "Akihiro Koike",
+                                "dc.date": "1996-11-01",
+                                "dc.identifier": "doi:10.1295/polymj.28.942",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Publishing Group",
+                                "dc.rights": "© 1996 Nature Publishing Group",
+                                "dc.source": "Polymer Journal, Published online: 01 November 1996; | doi:10.1295/polymj.28.942",
+                                "dc.title": "Dynamic Viscoelasticity and FT-IR Measurements of End-Crosslinking |[alpha]|,|[omega]|-Dihydroxyl Polybutadiene Solutions near the Gel Point in the Gelation Process",
+                                "dcs.dcssip": "www.nature.com",
+                                "emanating": "66X249X66X130",
+                                "prism.copyright": "© 1996 Nature Publishing Group",
+                                "prism.eissn": "1349-0540",
+                                "prism.endingpage": "950",
+                                "prism.issn": "0032-3896",
+                                "prism.number": "11",
+                                "prism.publicationdate": "1996-11-01",
+                                "prism.publicationname": "Polymer Journal",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Original Article",
+                                "prism.startingpage": "942",
+                                "prism.volume": "28",
+                                "wt.cg_n": "Polymer Journal",
+                                "wt.cg_s": "Original Article",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.tz": "US/Eastern"
+                            }
+                        ]
+                    },
+                    "snippet": "Dynamic viscoelasticity of α,ω-dihydroxyl polybutadiene/p-xylene system is .... \nSee, for example: P. G. de Gennes, “Scaling Concepts in Polymer Physics,” ...",
+                    "title": "Dynamic Viscoelasticity and FT-IR Measurements of End ...",
+                    "link": "http://www.nature.com/pj/journal/v28/n11/abs/pj1996165a.html",
+                    "htmlSnippet": "Dynamic <b>viscoelasticity</b> of α,ω-dihydroxyl polybutadiene/p-xylene system is .... <br>\nSee, for example: P. G. de Gennes, “Scaling Concepts in Polymer <b>Physics</b>,”&nbsp;..."
+                },
+                {
+                    "htmltitle": "What Is Quantum Mechanics Good for? - Scientific American",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://www.scientificamerican.com/sciam/cache/file/F5E96939-F17F-48C6-8B597C77EB8B880F_agenda.jpg?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "301",
+                                "height": "168",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4PKwdGd3rM5YGdUmecw-Gh3f8NjoTcMobzQuwCyu_-lKUjxRRHyR3OfKs"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "John Matson",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "Physicist James Kakalios, author of The Amazing Story of Quantum Mechanics, wants people to know what quantum physics has done for them lately--and why it shouldn't take the rap for New Age self-realization hokum such as The Secret",
+                                "og:image": "https://www.scientificamerican.com/sciam/cache/file/F5E96939-F17F-48C6-8B597C77EB8B880F_agenda.jpg?w=600&h=335",
+                                "og:site_name": "Scientific American",
+                                "og:title": "What Is Quantum Mechanics Good for?",
+                                "og:type": "article",
+                                "og:url": "https://www.scientificamerican.com/article/everyday-quantum-physics/",
+                                "parsely-metadata": "{\"contentid\": \"0972B467-CEC6-CB06-ED71989A6A5E2C6F\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "What Is Quantum Mechanics Good for?",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "2 Nov 2010 ... Physicist James Kakalios, author of The Amazing Story of Quantum ... \nNeuroscience. Evolution. Health. Chemistry. Physics. Technology.",
+                    "title": "What Is Quantum Mechanics Good for? - Scientific American",
+                    "link": "https://www.scientificamerican.com/article/everyday-quantum-physics/",
+                    "htmlSnippet": "2 Nov 2010 <b>...</b> <b>Physicist</b> James Kakalios, author of The Amazing Story of Quantum ... <br>\nNeuroscience. Evolution. Health. Chemistry. <b>Physics</b>. <b>Technology</b>."
+                },
+                {
+                    "htmltitle": "Quantum <b>technology</b>: The golden apple : Nature <b>Physics</b> : Nature ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/nphys/journal/v10/n7/images/nphys3022-i1.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "271",
+                                "height": "186",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwztPaRrdoulgZvTgnKp_cDKQGiiRcVkZyffT8E8EzcONKf_TrErQn8GI"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "Iulia Georgescu",
+                                "citation_date": "2014-07-01",
+                                "citation_doi": "doi:10.1038/nphys3022",
+                                "citation_firstpage": "474",
+                                "citation_issue": "7",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2014-06-30",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Quantum technology: The golden apple",
+                                "citation_volume": "10",
+                                "dc.creator": "Iulia Georgescu",
+                                "dc.date": "2014-06-30",
+                                "dc.identifier": "doi:10.1038/nphys3022",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2014 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "dc.title": "Quantum technology: The golden apple",
+                                "emanating": "66X249X66X134",
+                                "license.subtype": "Corporate",
+                                "prism.copyright": "© 2014 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "474",
+                                "prism.issn": "1745-2473",
+                                "prism.issue": "7",
+                                "prism.publicationdate": "2014-06-30",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "News and Views",
+                                "prism.startingpage": "474",
+                                "prism.volume": "10",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.action": "impression;impression;impression",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "News and Views",
+                                "wt.dl": "0",
+                                "wt.mod_name": "nature_jobs_and_events;most_read;innocentive",
+                                "wt.ndl": "0",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.source": "article",
+                                "wt.template": "B"
+                            }
+                        ]
+                    },
+                    "snippet": "30 Jun 2014 ... In Greek mythology, the vengeful goddess Eris chose an apple from the garden \nof the Hesperides (depicted in the painting by J. M. W. Turner, ...",
+                    "title": "Quantum technology: The golden apple : Nature Physics : Nature ...",
+                    "link": "http://www.nature.com/nphys/journal/v10/n7/full/nphys3022.html",
+                    "htmlSnippet": "30 Jun 2014 <b>...</b> In Greek mythology, the vengeful goddess Eris chose an apple from the garden <br>\nof the Hesperides (depicted in the painting by J. M. W. Turner,&nbsp;..."
+                },
+                {
+                    "htmltitle": "<b>Physics</b> News -- ScienceDaily",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://images.sciencedaily.com/2016/11/161110151314_1_180x120.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "144",
+                                "height": "96",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSktchgopha3tBjdp5Tv1NjvXmiZU-JIHZOgwrvs_SgQ0Bz2UwZqlu9wSc"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "expires": "Mon, 21 Nov 2016 09:53:16 GMT",
+                                "last-modified": "Mon, 21 Nov 2016 09:48:16 GMT",
+                                "og:description": "Physics News and Research. Why is the universe more partial to matter than antimatter? How could fuel cells be more efficient? Read current science articles on physics.",
+                                "og:site_name": "ScienceDaily",
+                                "og:title": "Physics News",
+                                "og:type": "article",
+                                "og:url": "https://www.sciencedaily.com/news/matter_energy/physics/",
+                                "section": "matter_energy",
+                                "topic": "physics"
+                            }
+                        ]
+                    },
+                    "snippet": "Optical Clock Technology Tested in Space for First Time ... 8, 2016 — Physicists \nhave developed a diagnostic that provides crucial real-time information about ...",
+                    "title": "Physics News -- ScienceDaily",
+                    "link": "https://www.sciencedaily.com/news/matter_energy/physics/",
+                    "htmlSnippet": "Optical Clock <b>Technology</b> Tested in Space for First Time ... 8, 2016 — <b>Physicists</b> <br>\nhave developed a diagnostic that provides crucial real-time information about&nbsp;..."
+                },
+                {
+                    "htmltitle": "Black Holes | Science Mission Directorate",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://smd-prod.s3.amazonaws.com/science-green/s3fs-public/styles/large/public/converted/media/medialibrary/2012/03/07/SWIFT_2.jpg?itok=Xi_U6gqL"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "324",
+                                "height": "156",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeyN2XzwGJCGwN5yPazYM55Xu9zBe4CxfH_9IaVS4N9UCiuhW8rASa7Ndv"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "handheldfriendly": "true",
+                                "mobileoptimized": "width",
+                                "viewport": "width=device-width"
+                            }
+                        ]
+                    },
+                    "snippet": "... perennial mystery in the science of black holes is that they appear to exist on ... \nFebruary 2, 2016, Blast from Black Hole in a Galaxy Far, Far Away (Pictor A).",
+                    "title": "Black Holes | Science Mission Directorate",
+                    "link": "https://science.nasa.gov/astrophysics/focus-areas/black-holes",
+                    "htmlSnippet": "... perennial mystery in the <b>science of</b> black holes is that they appear to exist on ... <br>\nFebruary 2, 2016, Blast from Black Hole in a <b>Galaxy</b> Far, Far Away (Pictor A)."
+                },
+                {
+                    "htmltitle": "Stars | Science Mission Directorate",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://smd-prod.s3.amazonaws.com/science-green/s3fs-public/styles/large/public/mnt/medialibrary/2012/03/16/stellar_eruption.jpg?itok=Dvnc_J-9"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "117",
+                                "height": "178",
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqLGRqi98WeoZzndzcG67i_gM9uKKhJNljTxXhtD6-XhCG07K1yvw1tE"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "handheldfriendly": "true",
+                                "mobileoptimized": "width",
+                                "viewport": "width=device-width"
+                            }
+                        ]
+                    },
+                    "snippet": "Stars are the most widely recognized astronomical objects, and represent the \nmost fundamental building blocks of galaxies. The age, distribution, and ...",
+                    "title": "Stars | Science Mission Directorate",
+                    "link": "https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve",
+                    "htmlSnippet": "Stars are the most widely recognized astronomical objects, and represent the <br>\nmost fundamental building blocks of <b>galaxies</b>. The age, distribution, and&nbsp;..."
+                },
+                {
+                    "htmltitle": "Assembly of <b>Galaxies</b> - NASA JWST",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://farm9.staticflickr.com/8381/8617564816_4867fd102e.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "252",
+                                "height": "200",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGY8vJ6cqkYSldG-fmeup3cuJ7cF55ajR68oYO0-qm9g03KfrJVav3vF4"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "content-owner": "Jonathan P. Gardner",
+                                "orgname": "Code 600",
+                                "rno": "Jonathan P. Gardner",
+                                "webmaster": "Maggie Masetti"
+                            }
+                        ]
+                    },
+                    "snippet": "JWST's unprecedented infrared sensitivity will help astronomers to compare the \nfaintest, earliest galaxies to today's grand spirals and ellipticals, helping us to ...",
+                    "title": "Assembly of Galaxies - NASA JWST",
+                    "link": "http://jwst.nasa.gov/galaxies.html",
+                    "htmlSnippet": "JWST&#39;s unprecedented infrared sensitivity will help astronomers to compare the <br>\nfaintest, earliest <b>galaxies</b> to today&#39;s grand spirals and ellipticals, helping us to&nbsp;..."
+                },
+                {
+                    "htmltitle": "Complex life may be possible in only 10% of all <b>galaxies</b> | Science ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-explosionsH.jpg?itok=xeXNbSiS"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "300",
+                                "height": "168",
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4V68kW_omtbXTf79Au2-EOwwhGyk_i6h8KaydfsqR5si1tlSR8Fvnls"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "article:modified_time": "2016-01-12T18:41:17-05:00",
+                                "article:published_time": "2014-11-24T11:30:51-05:00",
+                                "article:publisher": "https://www.facebook.com/ScienceNOW",
+                                "fb:admins": "2703576",
+                                "fb:app_id": "1478542162442556",
+                                "handheldfriendly": "true",
+                                "mobileoptimized": "width",
+                                "news_authors": "Adrian Cho",
+                                "news_key_words": "Physics, Space",
+                                "news_section": "Latest News",
+                                "og:description": "Radiation from gamma ray bursts may render the rest uninhabitable",
+                                "og:image": "http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-explosionsH.jpg?itok=xeXNbSiS",
+                                "og:image:height": "720",
+                                "og:image:secure_url": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-explosionsH.jpg?itok=xeXNbSiS",
+                                "og:image:type": "image/jpeg",
+                                "og:image:url": "http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-explosionsH.jpg?itok=xeXNbSiS",
+                                "og:image:width": "1280",
+                                "og:site_name": "Science | AAAS",
+                                "og:title": "Complex life may be possible in only 10% of all galaxies",
+                                "og:type": "article",
+                                "og:updated_time": "2016-01-12T18:41:17-05:00",
+                                "og:url": "http://www.sciencemag.org/news/2014/11/complex-life-may-be-possible-only-10-all-galaxies",
+                                "twitter:card": "summary_large_image",
+                                "twitter:creator": "@NewsfromScience",
+                                "twitter:creator:id": "17089636",
+                                "twitter:description": "Radiation from gamma ray bursts may render the rest uninhabitable",
+                                "twitter:image": "http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-explosionsH.jpg?itok=xeXNbSiS",
+                                "twitter:image:height": "720",
+                                "twitter:image:width": "1280",
+                                "twitter:site": "@newsfromscience",
+                                "twitter:site:id": "17089636",
+                                "twitter:title": "Complex life may be possible in only 10% of all galaxies",
+                                "twitter:url": "http://www.sciencemag.org/news/2014/11/complex-life-may-be-possible-only-10-all-galaxies",
+                                "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no"
+                            }
+                        ]
+                    },
+                    "snippet": "24 Nov 2014 ... \"It's kind of surprising that we can have life only in 10% of galaxies and only after \n5 billion years,\" says Brian Thomas, a physicist at Washburn ...",
+                    "title": "Complex life may be possible in only 10% of all galaxies | Science ...",
+                    "link": "http://www.sciencemag.org/news/2014/11/complex-life-may-be-possible-only-10-all-galaxies",
+                    "htmlSnippet": "24 Nov 2014 <b>...</b> &quot;It&#39;s kind of surprising that we can have life only in 10% of <b>galaxies</b> and only after <br>\n5 billion years,&quot; says Brian Thomas, a <b>physicist</b> at Washburn&nbsp;..."
+                },
+                {
+                    "htmltitle": "Dwarf <b>galaxies</b>: Plane speaking : Nature <b>Physics</b> : Nature Research",
+                    "pagemap": {
+                        "cse_image": null,
+                        "cse_thumbnail": null,
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "May Chiao",
+                                "citation_date": "2015-08-01",
+                                "citation_doi": "doi:10.1038/nphys3439",
+                                "citation_firstpage": "620",
+                                "citation_issue": "8",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2015-07-31",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Dwarf galaxies: Plane speaking",
+                                "citation_volume": "11",
+                                "dc.creator": "May Chiao",
+                                "dc.date": "2015-07-31",
+                                "dc.identifier": "doi:10.1038/nphys3439",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2015 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "dc.title": "Dwarf galaxies: Plane speaking",
+                                "emanating": "66X249X64X7",
+                                "license.subtype": "Corporate",
+                                "prism.copyright": "© 2015 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "620",
+                                "prism.issn": "1745-2473",
+                                "prism.issue": "8",
+                                "prism.publicationdate": "2015-07-31",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "Research Highlights",
+                                "prism.startingpage": "620",
+                                "prism.volume": "11",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.action": "impression;impression;impression",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "Research Highlights",
+                                "wt.dl": "0",
+                                "wt.mod_name": "nature_jobs_and_events;most_read;innocentive",
+                                "wt.ndl": "0",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.source": "article",
+                                "wt.template": "A"
+                            }
+                        ]
+                    },
+                    "snippet": "31 Jul 2015 ... Nature Physics | Research Highlights ... our own Local Group of galaxies that \nincludes the Milky Way, Andromeda and many dwarf galaxies.",
+                    "title": "Dwarf galaxies: Plane speaking : Nature Physics : Nature Research",
+                    "link": "http://www.nature.com/nphys/journal/v11/n8/full/nphys3439.html",
+                    "htmlSnippet": "31 Jul 2015 <b>...</b> Nature <b>Physics</b> | Research Highlights ... our own Local Group of <b>galaxies</b> that <br>\nincludes the Milky Way, Andromeda and many dwarf <b>galaxies</b>."
+                },
+                {
+                    "htmltitle": "Star formation: Why dwarf <b>galaxies</b> come up short : Nature <b>Physics</b> ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://www.nature.com/nphys/journal/v12/n7/images_article/nphys3807-F1.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "225",
+                                "height": "225",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAnnD9_PuVXw19waoAIpRC4tJzERFRq7dNpCOCjtCbRSBSrgU1AjHHhqI"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "access": "Yes",
+                                "apple-itunes-app": "app-id=409367154",
+                                "citation_author": "Desika Narayanan",
+                                "citation_date": "2016-07-01",
+                                "citation_doi": "doi:10.1038/nphys3807",
+                                "citation_firstpage": "636",
+                                "citation_issue": "7",
+                                "citation_journal_title": "Nature Physics",
+                                "citation_online_date": "2016-06-30",
+                                "citation_publisher": "Nature Research",
+                                "citation_title": "Star formation: Why dwarf galaxies come up short",
+                                "citation_volume": "12",
+                                "dc.creator": "Desika Narayanan",
+                                "dc.date": "2016-06-30",
+                                "dc.identifier": "doi:10.1038/nphys3807",
+                                "dc.language": "en",
+                                "dc.publisher": "Nature Research",
+                                "dc.rights": "© 2016 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "dc.title": "Star formation: Why dwarf galaxies come up short",
+                                "emanating": "66X249X69X66",
+                                "license.subtype": "Corporate",
+                                "prism.copyright": "© 2016 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+                                "prism.eissn": "1745-2481",
+                                "prism.endingpage": "637",
+                                "prism.issn": "1745-2473",
+                                "prism.issue": "7",
+                                "prism.publicationdate": "2016-06-30",
+                                "prism.publicationname": "Nature Physics",
+                                "prism.rightsagent": "permissions@nature.com",
+                                "prism.section": "News and Views",
+                                "prism.startingpage": "636",
+                                "prism.volume": "12",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2.5",
+                                "wt.action": "impression;impression;impression",
+                                "wt.cg_n": "Nature Physics",
+                                "wt.cg_s": "News and Views",
+                                "wt.dl": "0",
+                                "wt.mod_name": "nature_jobs;most_read;innocentive",
+                                "wt.ndl": "0",
+                                "wt.site_id": "19286",
+                                "wt.site_id_name": "GoogleBOT",
+                                "wt.source": "article",
+                                "wt.template": "B"
+                            }
+                        ]
+                    },
+                    "snippet": "30 Jun 2016 ... When it comes to star formation, dwarf galaxies perform very poorly. A possible \nexplanation for this behaviour involves photoelectric electrons ...",
+                    "title": "Star formation: Why dwarf galaxies come up short : Nature Physics ...",
+                    "link": "http://www.nature.com/nphys/journal/v12/n7/full/nphys3807.html",
+                    "htmlSnippet": "30 Jun 2016 <b>...</b> When it comes to star formation, dwarf <b>galaxies</b> perform very poorly. A possible <br>\nexplanation for this behaviour involves photoelectric electrons&nbsp;..."
+                }
+            ],
+            "patents": [
+                {
+                    "htmltitle": "Patent US6232274 - <b>Viscoelastic</b> surfactant based gelling ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://patentimages.storage.googleapis.com/thumbnails/US6232274B1/US06232274-20010515-D00003.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "88",
+                                "height": "96",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAj3pHkQ4gedy-xb9kWy11-DHveMzntVeR-NhM9pm9SZ5YdaU_OGWg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "citation_patent_application_number": "US:09/209,906",
+                                "citation_patent_number": "US:6232274",
+                                "dc.contributor": "Trevor L. Hughes",
+                                "dc.date": "1998-12-11",
+                                "dc.description": "A wellbore service fluid comprising viscoelastic surfactants in combination with means for controlling the concentration of at least partially charged sites within the fluid is described.",
+                                "dc.relation": "EP:0835983:A2",
+                                "dc.title": "Viscoelastic surfactant based gelling composition for wellbore service fluids",
+                                "dc.type": "Patent",
+                                "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+                                "og:site_name": "Google Books",
+                                "og:title": "Patent US6232274 - Viscoelastic surfactant based gelling composition for wellbore service fluids",
+                                "og:type": "book",
+                                "og:url": "http://www.google.com/patents/US6232274",
+                                "title": "Patent US6232274 - Viscoelastic surfactant based gelling composition for wellbore service fluids"
+                            }
+                        ]
+                    },
+                    "snippet": "A wellbore service fluid comprising viscoelastic surfactants in combination with \nmeans for ... Original Assignee, Schlumberger Technology Corporation.",
+                    "title": "Patent US6232274 - Viscoelastic surfactant based gelling ...",
+                    "link": "http://www.google.com/patents/US6232274",
+                    "htmlSnippet": "A wellbore service fluid comprising <b>viscoelastic</b> surfactants in combination with <br>\nmeans for ... Original Assignee, Schlumberger <b>Technology</b> Corporation."
+                },
+                {
+                    "htmltitle": "Patent WO1998056497A1 - Fluids containing <b>viscoelastic</b> surfactant ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://patentimages.storage.googleapis.com/WO1998056497A1/imgf000026_0001.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "332",
+                                "height": "152",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmPxyTot-T17XKd_eSGFATvqJnbYyI300JD2d9PpP7S1fcenQwCSnsOVT9"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "citation_patent_application_number": "WO:PCT/US1998/012067",
+                                "citation_patent_publication_number": "WO:1998056497:A1",
+                                "dc.contributor": "Manilal S. Dahanayake",
+                                "dc.date": "1998-6-9",
+                                "dc.description": "Viscoelastic surfactant based aqueous fluid systems useful as thickening agents in various applications, e.g. to suspend particles produced during the excavation of geologic formations. The surfactants are zwitterionic/amphoteric surfactants such as dihydroxyl alkyl glycinate, alkyl ampho acetate or propionate, alkyl betaine, alkyl amidopropyl betaine and alkylamino mono- or di-propionates derived from certain waxes, fats and oils. The thickening agent is used in conjunction with an inorganic water-soluble salt or organic additive such as phthalic acid, salicylic acid or their salts.",
+                                "dc.relation": "EP:0169074:A2",
+                                "dc.title": "Fluids containing viscoelastic surfactant and methods for using the same",
+                                "dc.type": "Patent",
+                                "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+                                "og:site_name": "Google Books",
+                                "og:title": "Patent WO1998056497A1 - Fluids containing viscoelastic surfactant and methods for using the same",
+                                "og:type": "book",
+                                "og:url": "http://www.google.com/patents/WO1998056497A1?cl=en",
+                                "title": "Patent WO1998056497A1 - Fluids containing viscoelastic surfactant and methods for using the same"
+                            }
+                        ]
+                    },
+                    "snippet": "Viscoelastic surfactant based aqueous fluid systems useful as thickening agents \n... in \"Rheological Measurements\", Encyclopedia of Chemical Technology, vol.",
+                    "title": "Patent WO1998056497A1 - Fluids containing viscoelastic surfactant ...",
+                    "link": "http://www.google.com/patents/WO1998056497A1?cl=en",
+                    "htmlSnippet": "<b>Viscoelastic</b> surfactant based aqueous fluid systems useful as thickening agents <br>\n... in &quot;Rheological Measurements&quot;, Encyclopedia of Chemical <b>Technology</b>, vol."
+                },
+                {
+                    "htmltitle": "Patent US6810108 - System and method for positioning an ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://patentimages.storage.googleapis.com/thumbnails/US6810108B2/US06810108-20041026-D00004.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "107",
+                                "height": "96",
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Rn32NoetMge-m2rffTLZSp7QLRXWXVL-bLD7Jvvmi3ve9UINdm67VQ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "citation_patent_application_number": "US:10/214,083",
+                                "citation_patent_number": "US:6810108",
+                                "citation_reference": "Clinical Use of Electronic Portal Imaging: Report of AAPM Radiation Therapy Committee Task Group 58, Michael G. Herman, et al., Medical Physics, May 2001, AIP For American Assoc. PHYS. MED, USA, vol. 28, No. 5, pp. 712-737, XP002262818, ISSN: 0094-2405, p. 732: Section V, D Advanced Applications.",
+                                "dc.contributor": "Charles Clark",
+                                "dc.date": "2002-8-6",
+                                "dc.description": "A portal imaging device positioning apparatus includes a portal imaging device positioner (255) attachable to a support (256). The portal imaging device positioner (255) is adapted to vertically adjust an imaging panel (250) in a treatment or dosimetry mode to receive radiation through a body in the patient plane (8 a), and adjust the panel in a physics mode to receive radiation at the patient plane (8 a).",
+                                "dc.relation": "US:4995068",
+                                "dc.title": "System and method for positioning an electronic portal imaging device",
+                                "dc.type": "Patent",
+                                "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+                                "og:site_name": "Google Books",
+                                "og:title": "Patent US6810108 - System and method for positioning an electronic portal imaging device",
+                                "og:type": "book",
+                                "og:url": "http://www.google.com/patents/US6810108",
+                                "title": "Patent US6810108 - System and method for positioning an electronic portal imaging device"
+                            }
+                        ]
+                    },
+                    "snippet": "26 Oct 2004 ... ... and adjust the panel in a physics mode to receive radiation at the patient ... \nUS5712482, Aug 5, 1996, Jan 27, 1998, Physics Technology, Inc.",
+                    "title": "Patent US6810108 - System and method for positioning an ...",
+                    "link": "http://www.google.com/patents/US6810108",
+                    "htmlSnippet": "26 Oct 2004 <b>...</b> ... and adjust the panel in a <b>physics</b> mode to receive radiation at the patient ... <br>\nUS5712482, Aug 5, 1996, Jan 27, 1998, <b>Physics Technology</b>, Inc."
+                },
+                {
+                    "htmltitle": "Patent US8725477 - Method to generate numerical pseudocores ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://patentimages.storage.googleapis.com/thumbnails/US8725477B2/US08725477-20140513-D00004.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "96",
+                                "height": "96",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXgOfq8FxlyRbJf5abQ3e-PxJAhpEk9hjcnbUGRzKQmJetwnauRVU8"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "dc.contributor": "Tuanfeng Zhang",
+                                "dc.date": "2009-4-8",
+                                "dc.description": "Methods and systems for creating a numerical pseudocore model, comprising: a) obtaining logging data from a reservoir having depth-defined intervals of the reservoir, and processing the logging data into interpretable borehole image data having unidentified borehole image data; b) examining one of the interpretable borehole image data, other processed logging data or both to generate the unidentified borehole image data, processing the generated unidentified borehole image data into the interpretable borehole image data to generate warped fullbore image data; c) collecting one of a core from the reservoir, the logging data or both and generating a digital core data from one of the collected core, the logging data or both such that generated digital core data represents features of one or more depth-defined interval of the reservoir; and d) processing generated digital core data, interpretable borehole image data or the logging data to generate realizations of the numerical pseudocore model.",
+                                "dc.relation": "DE:102004043992:A1",
+                                "dc.title": "Method to generate numerical pseudocores using borehole images, digital rock samples, and multi-point statistics",
+                                "dc.type": "Patent"
+                            }
+                        ]
+                    },
+                    "snippet": "13 May 2014 ... Original Assignee, Schlumberger Technology Corporation ..... (2003) described \nDigital Rock Physics technology, which consists of pore-scale ...",
+                    "title": "Patent US8725477 - Method to generate numerical pseudocores ...",
+                    "link": "https://google.com/patents/US8725477",
+                    "htmlSnippet": "13 May 2014 <b>...</b> Original Assignee, Schlumberger <b>Technology</b> Corporation ..... (2003) described <br>\nDigital Rock <b>Physics technology</b>, which consists of pore-scale&nbsp;..."
+                }
+            ],
+            "blogs": [
+                {
+                    "htmltitle": "Physics Week in Review: December 14, 2013 - Scientific American ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://blogs.scientificamerican.com/blogs/cache/file/B16ED255-24C6-495C-A6149A4421FC4298_agenda.gif?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "301",
+                                "height": "168",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-v5fEr1B8liSbimH8XfaEuRz_CjVn2G00uBFzPcDJMhQxBr3rGoPvhTo"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "Jennifer Ouellette",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "The winter solstice isn&#8217;t until next week, but the earliest sunset of the year already happened. How&#8217;s that possible? We&#8217;re getting awfully close to Christmas.",
+                                "og:image": "https://blogs.scientificamerican.com/blogs/cache/file/B16ED255-24C6-495C-A6149A4421FC4298_agenda.gif?w=600&h=335",
+                                "og:site_name": "Scientific American Blog Network",
+                                "og:title": "Physics Week in Review: December 14, 2013",
+                                "og:type": "article",
+                                "og:url": "https://blogs.scientificamerican.com/cocktail-party-physics/physics-week-in-review-december-14-2013/",
+                                "parsely-metadata": "{\"contentid\": \"8B193C0F-3714-41E1-B71172AB136F170D\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "Physics Week in Review: December 14, 2013",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "14 Dec 2013 ... Carnivorous pitcher plants owe much of their efficacy to the viscoelasticity of their \ndigestive fluid. \"Why is that mountain range floating?",
+                    "title": "Physics Week in Review: December 14, 2013 - Scientific American ...",
+                    "link": "https://blogs.scientificamerican.com/cocktail-party-physics/physics-week-in-review-december-14-2013/",
+                    "htmlSnippet": "14 Dec 2013 <b>...</b> Carnivorous pitcher plants owe much of their efficacy to the <b>viscoelasticity</b> of their <br>\ndigestive fluid. &quot;Why is that mountain range floating?"
+                },
+                {
+                    "htmltitle": "Follow the Bouncing Ball – Uncertain Principles",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://scienceblogs.com/principles/files/2014/02/bouncing_ball_screen.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "273",
+                                "height": "185",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF-hmxB6EriEc_FN2_rXwLVQhhmUBKxOIwpUakzvSALh69-W12gOFja66u"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "article:modified_time": "2014-02-11T14:43:35+00:00",
+                                "article:published_time": "2014-02-11T14:35:46+00:00",
+                                "fb:admins": "10200068",
+                                "og:description": "Last week, Rhett did a post on animating a bouncing ball in VPython. This was mostly making a point about the distinction between real simulation and animation, along the lines of yesterday’s post on social construction of videogame reality. But, of course, my immediate reaction was, “That’s not how a bouncing ball looks…” This is…",
+                                "og:image": "http://scienceblogs.com/principles/files/2014/02/bouncing_ball_screen.png",
+                                "og:image:height": "373",
+                                "og:image:width": "550",
+                                "og:locale": "en_US",
+                                "og:site_name": "Uncertain Principles",
+                                "og:title": "Follow the Bouncing Ball",
+                                "og:type": "article",
+                                "og:url": "http://scienceblogs.com/principles/2014/02/11/follow-the-bouncing-ball/",
+                                "twitter:card": "summary_large_image",
+                                "twitter:image": "http://scienceblogs.com/principles/files/2014/02/bouncing_ball_screen.png?w=640",
+                                "twitter:site": "@PrinciplesBlog",
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ]
+                    },
+                    "snippet": "11 Feb 2014 ... These modes may or may not damp (viscoelasticity and other effects) on a \nreasonable time-scale, affecting restitution. (Surprisingly, I'm in ...",
+                    "title": "Follow the Bouncing Ball – Uncertain Principles",
+                    "link": "http://scienceblogs.com/principles/2014/02/11/follow-the-bouncing-ball/",
+                    "htmlSnippet": "11 Feb 2014 <b>...</b> These modes may or may not damp (<b>viscoelasticity</b> and other effects) on a <br>\nreasonable time-scale, affecting restitution. (Surprisingly, I&#39;m in&nbsp;..."
+                },
+                {
+                    "htmltitle": "<b>Physics</b> Week in Review: December 14, 2013 - Scientific American ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://blogs.scientificamerican.com/blogs/cache/file/B16ED255-24C6-495C-A6149A4421FC4298_agenda.gif?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "301",
+                                "height": "168",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-v5fEr1B8liSbimH8XfaEuRz_CjVn2G00uBFzPcDJMhQxBr3rGoPvhTo"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "Jennifer Ouellette",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "The winter solstice isn&#8217;t until next week, but the earliest sunset of the year already happened. How&#8217;s that possible? We&#8217;re getting awfully close to Christmas.",
+                                "og:image": "https://blogs.scientificamerican.com/blogs/cache/file/B16ED255-24C6-495C-A6149A4421FC4298_agenda.gif?w=600&h=335",
+                                "og:site_name": "Scientific American Blog Network",
+                                "og:title": "Physics Week in Review: December 14, 2013",
+                                "og:type": "article",
+                                "og:url": "https://blogs.scientificamerican.com/cocktail-party-physics/physics-week-in-review-december-14-2013/",
+                                "parsely-metadata": "{\"contentid\": \"8B193C0F-3714-41E1-B71172AB136F170D\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "Physics Week in Review: December 14, 2013",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "14 Dec 2013 ... Here's some gift ideas for the Physics Fanatic in All of Us: \"as you shop .... owe \nmuch of their efficacy to the viscoelasticity of their digestive fluid.",
+                    "title": "Physics Week in Review: December 14, 2013 - Scientific American ...",
+                    "link": "https://blogs.scientificamerican.com/cocktail-party-physics/physics-week-in-review-december-14-2013/",
+                    "htmlSnippet": "14 Dec 2013 <b>...</b> Here&#39;s some gift ideas for the <b>Physics</b> Fanatic in All of Us: &quot;as you shop .... owe <br>\nmuch of their efficacy to the <b>viscoelasticity</b> of their digestive fluid."
+                },
+                {
+                    "htmltitle": "Follow the Bouncing Ball – Uncertain Principles",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "http://scienceblogs.com/principles/files/2014/02/bouncing_ball_screen.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "273",
+                                "height": "185",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF-hmxB6EriEc_FN2_rXwLVQhhmUBKxOIwpUakzvSALh69-W12gOFja66u"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "article:modified_time": "2014-02-11T14:43:35+00:00",
+                                "article:published_time": "2014-02-11T14:35:46+00:00",
+                                "fb:admins": "10200068",
+                                "og:description": "Last week, Rhett did a post on animating a bouncing ball in VPython. This was mostly making a point about the distinction between real simulation and animation, along the lines of yesterday’s post on social construction of videogame reality. But, of course, my immediate reaction was, “That’s not how a bouncing ball looks…” This is…",
+                                "og:image": "http://scienceblogs.com/principles/files/2014/02/bouncing_ball_screen.png",
+                                "og:image:height": "373",
+                                "og:image:width": "550",
+                                "og:locale": "en_US",
+                                "og:site_name": "Uncertain Principles",
+                                "og:title": "Follow the Bouncing Ball",
+                                "og:type": "article",
+                                "og:url": "http://scienceblogs.com/principles/2014/02/11/follow-the-bouncing-ball/",
+                                "twitter:card": "summary_large_image",
+                                "twitter:image": "http://scienceblogs.com/principles/files/2014/02/bouncing_ball_screen.png?w=640",
+                                "twitter:site": "@PrinciplesBlog",
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ]
+                    },
+                    "snippet": "11 Feb 2014 ... To put that in, we need to think about the physics of why it decays. .... These \nmodes may or may not damp (viscoelasticity and other effects) on a ...",
+                    "title": "Follow the Bouncing Ball – Uncertain Principles",
+                    "link": "http://scienceblogs.com/principles/2014/02/11/follow-the-bouncing-ball/",
+                    "htmlSnippet": "11 Feb 2014 <b>...</b> To put that in, we need to think about the <b>physics</b> of why it decays. .... These <br>\nmodes may or may not damp (<b>viscoelasticity</b> and other effects) on a&nbsp;..."
+                },
+                {
+                    "htmltitle": "Are the Constants of <b>Physics</b> Constant? - Scientific American Blog ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://blogs.scientificamerican.com/blogs/cache/file/27A8A8D7-CD58-4CC8-B66140D233BE67DC_agenda.jpg?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "301",
+                                "height": "168",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvVNmL0uvtjefKcCMlU8oi8vWAT9wRzAeDboR_ubCc4L5UAyIN4X-d6dM"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "Venkat Srinivasan",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "So far, they seem to be&mdash;but nobody really understands why&nbsp;",
+                                "og:image": "https://blogs.scientificamerican.com/blogs/cache/file/27A8A8D7-CD58-4CC8-B66140D233BE67DC_agenda.jpg?w=600&h=335",
+                                "og:site_name": "Scientific American Blog Network",
+                                "og:title": "Are the Constants of Physics Constant?",
+                                "og:type": "article",
+                                "og:url": "https://blogs.scientificamerican.com/guest-blog/are-the-constants-of-physics-constant/",
+                                "parsely-metadata": "{\"contentid\": \"5EC561A5-63DD-4B39-872A3B2C5C023C20\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "Are the Constants of Physics Constant?",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "7 Mar 2016 ... The Nazi Party had already suspended the renowned quantum mechanics \nphysicist's position at the University of Gottingen in 1933. He had ...",
+                    "title": "Are the Constants of Physics Constant? - Scientific American Blog ...",
+                    "link": "https://blogs.scientificamerican.com/guest-blog/are-the-constants-of-physics-constant/",
+                    "htmlSnippet": "7 Mar 2016 <b>...</b> The Nazi Party had already suspended the renowned quantum mechanics <br>\n<b>physicist&#39;s</b> position at the University of Gottingen in 1933. He had&nbsp;..."
+                },
+                {
+                    "htmltitle": "Cocktail Party <b>Physics</b> - Scientific American Blog Network",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://blogs.scientificamerican.com/blogs/cache/file/F80A9966-CAC4-4FAB-872030FD324B6281_agenda.jpg?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "300",
+                                "height": "168",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDVZZhY9mU4mVGE-kctM78P1I69BkHWo6lPPTqa9oyqVVj4FvZweMFfXQb"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "Physics With a Twist",
+                                "og:image": "https://blogs.scientificamerican.com/blogs/cache/file/F80A9966-CAC4-4FAB-872030FD324B6281_agenda.jpg?w=600&h=335",
+                                "og:site_name": "Scientific American Blog Network",
+                                "og:title": "Cocktail Party Physics",
+                                "og:type": "article",
+                                "og:url": "https://blogs.scientificamerican.com/cocktail-party-physics/",
+                                "parsely-metadata": "{\"contentid\": \"9D65B82E-441D-41A3-8A677640F69DBC5F\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "Cocktail Party Physics",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "Cocktail Party Physics. Physics With a Twist. About · RSS · Bidding a Fond ... \nSeptember 1, 2015 — Jennifer Ouellette. Physics Week in Review: August 29, \n2015.",
+                    "title": "Cocktail Party Physics - Scientific American Blog Network",
+                    "link": "https://blogs.scientificamerican.com/cocktail-party-physics/",
+                    "htmlSnippet": "Cocktail Party <b>Physics</b>. <b>Physics</b> With a Twist. About &middot; RSS &middot; Bidding a Fond ... <br>\nSeptember 1, 2015 — Jennifer Ouellette. <b>Physics</b> Week in Review: August 29, <br>\n2015."
+                },
+                {
+                    "htmltitle": "Is Particle <b>Physics</b> About to Crack Wide Open? - Scientific American ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://blogs.scientificamerican.com/blogs/cache/file/9531FDD6-C583-42CD-995E0D94FCA98105_agenda.jpg?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "301",
+                                "height": "168",
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY6uaJOnrISFLuKnZIld4WusaBR0-cjjwUlmfM84TMxJmfeFUGLIVYaT8"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "Michele Redi",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "Hints of an unexpected new particle could be confirmed within days&mdash;and if it is, the Standard Model could be going down",
+                                "og:image": "https://blogs.scientificamerican.com/blogs/cache/file/9531FDD6-C583-42CD-995E0D94FCA98105_agenda.jpg?w=600&h=335",
+                                "og:site_name": "Scientific American Blog Network",
+                                "og:title": "Is Particle Physics About to Crack Wide Open?",
+                                "og:type": "article",
+                                "og:url": "https://blogs.scientificamerican.com/guest-blog/is-particle-physics-about-to-crack-wide-open/",
+                                "parsely-metadata": "{\"contentid\": \"06285699-1A7B-4C15-BAD2111E2D57537D\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "Is Particle Physics About to Crack Wide Open?",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "13 Jun 2016 ... It's December 15, 2015, and an auditorium in Geneva is packed with physicists. \nThe air is filled with tension and excitement because everybody ...",
+                    "title": "Is Particle Physics About to Crack Wide Open? - Scientific American ...",
+                    "link": "https://blogs.scientificamerican.com/guest-blog/is-particle-physics-about-to-crack-wide-open/",
+                    "htmlSnippet": "13 Jun 2016 <b>...</b> It&#39;s December 15, 2015, and an auditorium in Geneva is packed with <b>physicists</b>. <br>\nThe air is filled with tension and excitement because everybody&nbsp;..."
+                },
+                {
+                    "htmltitle": "Stuff <b>Physicists</b> Don&#39;t Understand: Sonoluminescence [Video ...",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://blogs.scientificamerican.com/blogs/cache/file/7F4CC1A0-FCB9-48A7-8C543C0371118BC1_agenda.jpg?w=600&h=335"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "300",
+                                "height": "168",
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQugOw0_OrbDjRF8nNPir8f2_JzcEIEO5WA-HVjzjyVOdIuZq50GKNrgvk"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "author": "Yvette Cendes",
+                                "msapplication-tileimage": "/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png",
+                                "og:description": "How can tiny collapsing bubbles inside a vat of water or other liquid reach temperatures of 20,000 degrees C? Nobody has a clue",
+                                "og:image": "https://blogs.scientificamerican.com/blogs/cache/file/7F4CC1A0-FCB9-48A7-8C543C0371118BC1_agenda.jpg?w=600&h=335",
+                                "og:site_name": "Scientific American Blog Network",
+                                "og:title": "Stuff Physicists Don't Understand: Sonoluminescence [Video]",
+                                "og:type": "article",
+                                "og:url": "https://blogs.scientificamerican.com/guest-blog/stuff-physicists-don-t-understand-sonoluminescence-video/",
+                                "parsely-metadata": "{\"contentid\": \"A0DCEABF-5E87-48C8-9918DB8DC5A4C6EA\"}",
+                                "referrer": "always",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@sciam",
+                                "twitter:title": "Stuff Physicists Don't Understand: Sonoluminescence [Video]",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    "snippet": "14 Oct 2016 ... One reason physics is so exciting is that whenever you think we know a fair bit \nabout the universe, you can find a new phenomenon where no ...",
+                    "title": "Stuff Physicists Don't Understand: Sonoluminescence [Video ...",
+                    "link": "https://blogs.scientificamerican.com/guest-blog/stuff-physicists-don-t-understand-sonoluminescence-video/",
+                    "htmlSnippet": "14 Oct 2016 <b>...</b> One reason <b>physics</b> is so exciting is that whenever you think we know a fair bit <br>\nabout the universe, you can find a new phenomenon where no&nbsp;..."
+                }
+            ],
+            "videos": [
+                {
+                    "id": {
+                        "videoid": "kpzEsgSBUqc"
+                    },
+                    "snippet": {
+                        "publishedat": "2014-02-27T16:11:17.000Z",
+                        "title": "What we can learn from galaxies far, far away - Henry Lin",
+                        "description": "View full lesson: http://ed.ted.com/lessons/what-we-can-learn-from-galaxies-far-far-away-henry-lin In a fun, excited talk, teenager Henry Lin looks at something ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/kpzEsgSBUqc/default.jpg"
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/kpzEsgSBUqc/mqdefault.jpg"
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/kpzEsgSBUqc/hqdefault.jpg"
+                            }
+                        },
+                        "channeltitle": "TED-Ed"
+                    }
+                },
+                {
+                    "id": {
+                        "videoid": "sI23cwbbNqs"
+                    },
+                    "snippet": {
+                        "publishedat": "2012-11-12T16:00:49.000Z",
+                        "title": "Dark matter: How does it explain a star's speed? - Don Lincoln",
+                        "description": "View full lesson: http://ed.ted.com/lessons/dark-matter-how-does-it-explain-a-star-s-speed-don-lincoln All the stars in a spiral galaxy rotate around a center -- but ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/sI23cwbbNqs/default.jpg"
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/sI23cwbbNqs/mqdefault.jpg"
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/sI23cwbbNqs/hqdefault.jpg"
+                            }
+                        },
+                        "channeltitle": "TED-Ed"
+                    }
+                },
+                {
+                    "id": {
+                        "videoid": "Op3AYaJc0Xw"
+                    },
+                    "snippet": {
+                        "publishedat": "2014-10-09T15:08:37.000Z",
+                        "title": "Light seconds, light years, light centuries: How to measure extreme distances - Yuan-Sen Ting",
+                        "description": "View full lesson: http://ed.ted.com/lessons/how-do-we-measure-distances-in-space-yuan-sen-ting When we look at the sky, we have a flat, two-dimensional view ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/Op3AYaJc0Xw/default.jpg"
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/Op3AYaJc0Xw/mqdefault.jpg"
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/Op3AYaJc0Xw/hqdefault.jpg"
+                            }
+                        },
+                        "channeltitle": "TED-Ed"
+                    }
+                },
+                {
+                    "id": {
+                        "videoid": "a1bWKZFP2Tc"
+                    },
+                    "snippet": {
+                        "publishedat": "2012-03-12T04:15:15.000Z",
+                        "title": "How many universes are there? - Chris Anderson",
+                        "description": "View the full lesson: http://ed.ted.com/lessons/how-many-un... The fact that no one knows the answer to this question is what makes it exciting. The story of ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/a1bWKZFP2Tc/default.jpg"
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/a1bWKZFP2Tc/mqdefault.jpg"
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/a1bWKZFP2Tc/hqdefault.jpg"
+                            }
+                        },
+                        "channeltitle": "TED-Ed"
+                    }
+                },
+                {
+                    "id": {
+                        "videoid": "i7930fj3T54"
+                    },
+                    "snippet": {
+                        "publishedat": "2014-10-07T15:27:57.000Z",
+                        "title": "How do we study the stars? - Yuan-Sen Ting",
+                        "description": "View full lesson: http://ed.ted.com/lessons/how-do-we-study-the-stars-yuan-sen-ting Our best technology can send men to the Moon and probes to the edge of ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/i7930fj3T54/default.jpg"
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/i7930fj3T54/mqdefault.jpg"
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/i7930fj3T54/hqdefault.jpg"
+                            }
+                        },
+                        "channeltitle": "TED-Ed"
+                    }
+                }
+            ],
+            "wikipedia": [
+                {
+                    "htmltitle": "<b>Viscoelasticity</b> - Wikipedia",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BernoullisLawDerivationDiagram.svg/220px-BernoullisLawDerivationDiagram.svg.png"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "176",
+                                "height": "82",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwNiRAxcMMSjtKIbt49rIRIOvutsccD7JttQWnRqjdb7I3OujuWNpszmc"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "origin-when-cross-origin"
+                            }
+                        ]
+                    },
+                    "snippet": "Viscoelasticity is the property of materials that exhibit both viscous and elastic \ncharacteristics when undergoing deformation. Viscous materials, like honey, \nresist ...",
+                    "title": "Viscoelasticity - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Viscoelasticity",
+                    "htmlSnippet": "<b>Viscoelasticity</b> is the property of materials that exhibit both viscous and elastic <br>\ncharacteristics when undergoing deformation. Viscous materials, like honey, <br>\nresist&nbsp;..."
+                },
+                {
+                    "htmltitle": "<b>Physics</b> - Wikipedia",
+                    "pagemap": {
+                        "cse_image": [
+                            {
+                                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CollageFisica.jpg/300px-CollageFisica.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "width": "240",
+                                "height": "173",
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK5rqKlg_6BXm4TYSKkuWxx5Fc0Smr83wyKBES_dGu5aiGgFjPC65a4h8"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "origin-when-cross-origin"
+                            }
+                        ]
+                    },
+                    "snippet": "Physics is the natural science that involves the study of matter and its motion and \nbehavior through space and time, along with related concepts such as energy ...",
+                    "title": "Physics - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Physics",
+                    "htmlSnippet": "<b>Physics</b> is the natural science that involves the study of matter and its motion and <br>\nbehavior through space and time, along with related concepts such as energy&nbsp;..."
+                }
+            ],
+            "news": null
+        }
+    }
+}

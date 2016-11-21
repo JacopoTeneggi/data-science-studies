@@ -10,11 +10,19 @@ const _defaultOps = {
 
 module.exports = class MBGQuerier {
 
-    static query(love, skill, problem, callback) {
-        if (!love || !skill || !problem) return callback('Fulfill the query');
-        let skillId = MBGDataHelper.getSkillId(skill);
-        if (!MBGDataHelper.problemExistsForSkill(skillId, problem)) return callback('Skill problem error');
-        //here is to make the call to the API
+    static query(query, callback) {
+        if (!query.love || !query.skill || !query.problem) return callback('Fulfill the query');
+        let skillId = MBGDataHelper.getSkillId(query.skill);
+        if (!MBGDataHelper.problemExistsForSkill(skillId, query.problem)) return callback('Skill problem error');
+        let ops = _defaultOps;
+        ops.love = query.love;
+        ops.skill = query.skill;
+        ops.problem = query.problem;
+        ops.skillid = skillId;
+        request({ url: _url, qs: ops }, (err, response, body) => {
+            if(err) return callback(err);
+            return callback(err, response, body);
+        });
     };
-    
+
 };
