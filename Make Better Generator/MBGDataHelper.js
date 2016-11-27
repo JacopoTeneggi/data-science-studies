@@ -17,36 +17,34 @@ module.exports = class MBGDataHelper {
         return _problems;
     };
 
-    static problemsVocab() {
+    static get problemsVocab() {
         let vocab = [];
-        for (var k in _problems) {
-            vocab = vocab.concat(_problems[k]);
-        }
+        utils.forKey(_problems, (item, index) => {
+            vocab = vocab.concat(item);
+        });
         vocab = unique(vocab)
         return vocab;
     };
 
-    static skillXproblemMatrix() {
-        let out = [];
-        let vocab = this.problemsVocab();
-        vocab.map((problem) => {
-            let row = []
-            for (let k in _problems) {
-                row[k] = _problems[k].includes(problem) ? 1 : 0;
-            }
-            out.push(row);
+    static skillXproblem() {
+        let vocab = this.problemsVocab;
+        let skillXproblem = utils.mapEach(vocab, (item, index) => {
+            let problem = item;
+            let problems = this.problems;
+            utils.forKey(problems, (item, index) => {
+                let val = item.includes(problem[0]) ? 1 : 0;
+                problem.push(val);
+            });
+            return problem;
         });
-        return out;
+        return skillXproblem;
     };
 
     static skillXproblemCSV() {
-        let matrix = this.skillXproblemMatrix();
+        let matrix = this.skillXproblem();
         let headers = ['Problem'].concat(_skills);
-        let csv = utils.matrix2csv(headers, this.problemsVocab(), matrix);
-        fs.writeFile('./skillXproblem.csv', csv, (err) => {
-            if (err) return console.log(err);
-            return "Matrix Exported 2 CSV file";
-        })
+        let csv = utils.matrix2csv(headers, matrix);
+        return csv;
     };
 
     static getSkillId(skillName) {
